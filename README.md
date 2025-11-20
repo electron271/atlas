@@ -1,6 +1,8 @@
 # ATLAS (All Things Linux Abridged System)
 This is the operating system that runs on the tux keychain.
 
+**This project is not made by the All Things Linux 501(c)(3) organization. This project is made by All Things Linux staff members.**
+
 ## To-do
 - [ ] readd flashdrive support
 - [x] clean up readme
